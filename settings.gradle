@@ -9,4 +9,6 @@
 
 rootProject.name = 'sante-npr'
 include 'shared'
+include 'core'
+include 'infrastructure'
 

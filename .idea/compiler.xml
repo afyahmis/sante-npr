@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="org.afyahmis.sante.npr.core.main" target="1.8" />
+      <module name="org.afyahmis.sante.npr.core.test" target="1.8" />
+      <module name="org.afyahmis.sante.npr.infrastructure.main" target="1.8" />
+      <module name="org.afyahmis.sante.npr.infrastructure.test" target="1.8" />
       <module name="org.afyahmis.sante.npr.shared.main" target="1.8" />
       <module name="org.afyahmis.sante.npr.shared.test" target="1.8" />
     </bytecodeTargetLevel>

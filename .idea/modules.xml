@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.core.iml" filepath="$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/org.afyahmis.sante.npr.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/org.afyahmis.sante.npr.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/org.afyahmis.sante.npr.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/org.afyahmis.sante.npr.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.infrastructure.iml" filepath="$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/org.afyahmis.sante.npr.infrastructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/org.afyahmis.sante.npr.infrastructure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infrastructure/org.afyahmis.sante.npr.infrastructure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infrastructure/org.afyahmis.sante.npr.infrastructure.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.sante-npr.iml" filepath="$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.sante-npr.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.main.iml" />
