@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.sante-npr.iml" filepath="$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.sante-npr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/org.afyahmis.sante.npr.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/org.afyahmis.sante.npr.shared.test.iml" />
     </modules>

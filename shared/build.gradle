@@ -1,4 +1,7 @@
+repositories {
+    mavenCentral()
+}
+
 dependencies{
-    testImplementation group: 'org.apache.logging.log4j', name: 'log4j', version: '2.11.1'
     implementation group: 'com.fasterxml.uuid', name: 'java-uuid-generator', version: '3.1.5'
 }

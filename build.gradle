@@ -13,7 +13,7 @@ subprojects {
     }
 
     dependencies {
-        implementation group: 'org.apache.logging.log4j', name: 'log4j', version: '2.11.1'
+        implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.11.2'
         testImplementation 'junit:junit:4.12'
         testImplementation 'com.github.javafaker:javafaker:0.17.2'
     }
