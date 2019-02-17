@@ -1,0 +1,20 @@
+allprojects {
+    group = 'org.afyahmis.sante.npr'
+    version = '0.0.1-SNAPSHOT'
+}
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+
+    sourceCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        implementation group: 'org.apache.logging.log4j', name: 'log4j', version: '2.11.1'
+        testImplementation 'junit:junit:4.12'
+        testImplementation 'com.github.javafaker:javafaker:0.17.2'
+    }
+}
